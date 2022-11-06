@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "react portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalebritt/react-portfolio.git"
+  },
+  "author": "k",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/kalebritt/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/kalebritt/react-portfolio#readme"
+}
