@@ -1,12 +1,12 @@
 //import css
 import "./App.css";
 //apollo client
-import {
-  ApolloClient,
-  InMemoryCache,
-  ApolloProvider,
-  createHttpLink,
-} from "@apollo/client";
+// import {
+//   ApolloClient,
+//   InMemoryCache,
+//   ApolloProvider,
+//   createHttpLink,
+// } from "@apollo/client";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 //import components
 import About from "./components/About";
