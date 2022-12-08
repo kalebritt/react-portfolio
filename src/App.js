@@ -26,12 +26,20 @@ function App() {
       <div className="outterdiv">
         <Nav />
         <div className="bodydiv">
-            <Routes>
+          <Routes>
             <Route path="/About" element={<About />} />
-
-            </Routes>
+            <Route path="/Contact" element={<Contact />} />
+            <Route path="/Footer" element={<Footer />} />
+            <Route path="/Header" element={<Header />} />
+            <Route path="/Page" element={<Page />} />
+            <Route path="/PageContent" element={<PageContent />} />
+            <Route path="/Portfolio" element={<Portfolio />} />
+            <Route path="/Resume" element={<Resume />} />
+          </Routes>
         </div>
       </div>
     </BrowserRouter>
   );
 }
+
+export default App;
