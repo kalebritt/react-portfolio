@@ -18,3 +18,20 @@ import Page from "./components/Page";
 import PageContent from "./components/PageContent";
 import Portfolio from "./components/Portfolio";
 import Resume from "./components/Resume";
+
+//start the app function
+function App() {
+  return (
+    <BrowserRouter>
+      <div className="outterdiv">
+        <Nav />
+        <div className="bodydiv">
+            <Routes>
+            <Route path="/About" element={<About />} />
+
+            </Routes>
+        </div>
+      </div>
+    </BrowserRouter>
+  );
+}
