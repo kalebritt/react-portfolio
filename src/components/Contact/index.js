@@ -6,25 +6,25 @@ function Contact() {
     <div>
       <ul className="contact">
         <li>
-          <a href="mailto:dana.golebiewski@gmail.com" target="_blank">
+          <a href="mailto:kaleb.rittenhouse@gmail.com" target="_blank">
             Email
           </a>
         </li>
         <li>
-          <a href="https://github.com/danagolebiewski" target="_blank">
+          <a href="https://github.com/kalebritt" target="_blank">
             Github
           </a>
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/in/danagolebiewski/"
+            href="https://www.linkedin.com/in/k-ritt/"
             target="_blank"
           >
             Linkedin
           </a>
         </li>
         <li>
-          <a href="tel:716-445-9943" target="_blank">
+          <a href="tel:719-232-0702" target="_blank">
             Phone number
           </a>
         </li>
