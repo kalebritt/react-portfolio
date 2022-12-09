@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kalebritt/react-portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/kalebritt/react-portfolio/static/js/main.93d4919d.js",
+    "static/js/496.c8c7ac7a.chunk.js": "/kalebritt/react-portfolio/static/js/496.c8c7ac7a.chunk.js",
+    "index.html": "/kalebritt/react-portfolio/index.html",
+    "main.93d4919d.js.map": "/kalebritt/react-portfolio/static/js/main.93d4919d.js.map",
+    "496.c8c7ac7a.chunk.js.map": "/kalebritt/react-portfolio/static/js/496.c8c7ac7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.93d4919d.js"
+  ]
+}
