@@ -7,15 +7,9 @@ function About() {
       <div className=""></div>
 
       <div className="info">
-        <h2 className="heading">poet/full.stack.developer</h2>
+        <h2 className="heading">poet.full.stack.developer</h2>
         <p>
-          {/* Full Stack Web Developer with a background in business ownership,
-          massage therapy, and life-long dedication to learning. Self-starter
-          with excellent communication and customer service skills. Known among
-          former clients for being able to listen to their needs and delivering
-          a consistently excellent product. Mentor a new massage therapist to
-          coach on advanced massage therapy techniques, business ownership, and
-          cultivating an interpersonal relationship with each client. */}
+          k is a poet and full-stack web developer.  
         </p>
         <p>
           Extra-curricular activities include being MVP of the roller derby
