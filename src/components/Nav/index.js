@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./navigation.css";
 
-function Nav({ pages = [], setCurrentPage, currentPage }) {
+function Navigation({ pages = [], setCurrentPage, currentPage }) {
   useEffect(() => {
     document.title = currentPage.name;
   }, [currentPage]);
@@ -23,4 +23,4 @@ function Nav({ pages = [], setCurrentPage, currentPage }) {
   );
 }
 
-export default Nav;
+export default Navigation;
