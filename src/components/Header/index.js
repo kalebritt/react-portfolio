@@ -1,16 +1,14 @@
+import React from "react";
+import "./header.css";
 
-import React from 'react';
-import './header.css';
-
-function Header ({ children }) {
+function Header({ children }) {
   return (
-    <div >
-      <header className='title'>
+    <div>
+      <header className="title">
         <h1>k</h1>
-      {children}
+        {children}
       </header>
     </div>
- 
   );
 }
 

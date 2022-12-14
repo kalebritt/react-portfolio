@@ -21,9 +21,9 @@
   "author": "k",
   "license": "(MIT)",
   "bugs": {
-    "url": "https://github.com/kalebritt/react-portfolio"
+    "url": "https://github.com/kalebritt/react-portfolio/issues"
   },
-  "homepage": "https://github.com/kalebritt/react-portfolio",
+  "homepage": "https://github.com/kalebritt/react-portfolio#readme",
   "dependencies": {
     "@apollo/client": "^3.7.2",
     "@testing-library/jest-dom": "^5.16.5",

@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./nav.css";
+import "./navigation.css";
 
 function Nav({ pages = [], setCurrentPage, currentPage }) {
   useEffect(() => {
