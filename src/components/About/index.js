@@ -12,10 +12,7 @@ function About() {
           k is a poet and full-stack web developer.  
         </p>
         <p>
-          Extra-curricular activities include being MVP of the roller derby
-          league, training committee member, team captain, and assists with
-          coaching the new recruits. Love collaborating as a team to reach
-          common goals and help everyone achieve success.
+          i like to read, write poetry, and 
         </p>
         <p>
           I thrive on witnessing and helping everyone around me succeed and
